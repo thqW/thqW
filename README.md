@@ -4,16 +4,15 @@ I´m Blake, Full Stack Developer
 
 ## 🚀💻 Technologies & Tools
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="40px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Mariadb-seal-browntext.svg" width="40px"/></code>
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
